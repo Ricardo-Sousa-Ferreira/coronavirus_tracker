@@ -1,0 +1,18 @@
+{
+  "name": "coronavirus_tracker",
+  "version": "1.0.0",
+  "description": "Live tracker of coronavirus data that fetches data from an API",
+  "main": "index.js",
+  "dependencies": {
+    "nex": "^2.0.22",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
