@@ -4,14 +4,19 @@
   "description": "Live tracker of coronavirus data that fetches data from an API",
   "main": "index.js",
   "dependencies": {
-    "nex": "^2.0.22",
+    "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ricardo-Sousa-Ferreira/coronavirus_tracker/"
+  },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next"
   },
   "author": "",
   "license": "ISC"

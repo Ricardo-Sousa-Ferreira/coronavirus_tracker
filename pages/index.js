@@ -1,5 +1,9 @@
+import Stats from "../components/Stats.js"
+
 export default function IndexPage() {
     return (
-        <p>Teste</p>
+        <div>
+            <Stats></Stats>
+        </div>
     )
 }
