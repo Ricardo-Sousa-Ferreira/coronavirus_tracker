@@ -9,7 +9,7 @@ function useStats(url){
             setStats(data);
         }
         fetchData();       
-    }, []);
+    }, [url]);
     return stats;
 }
 
